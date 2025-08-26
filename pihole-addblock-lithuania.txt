@@ -1,0 +1,13 @@
+# Title: Adblock Blocklist
+# Description: Domains classified as ads
+# Author: ts
+# License: GNU General Public License v3.0
+# @ GitLab : https://github.com/sttomas/pihole-lithuanian-lists
+# Updated: 2025-08-25
+# LatestVersion 1.0
+# Domain Count: 1
+#===============================================================
+
+adform.net #Ads
+dcdn.lt #Ads
+doubleclick.net #Ad tracker
