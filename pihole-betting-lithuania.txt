@@ -1,42 +1,51 @@
 # Title: Lithuanian Betting Blocklist
-# Description: Domains classified as bet
+# Updated: 2026-03-17
 # Author: ts
-# License: GNU General Public License v3.0
-# @ GitLab : https://github.com/sttomas/pihole-lithuanian-lists
-# Updated: 2025-08-25
-# LatestVersion 1.0
-# Domain Count: 32
-#===============================================================
+# Domain Count: 42
+# ===============================================================
 
-loto.lt #Lottery
-topsport.lt #Betting
-optibet.lt #Betting
-7bet.net #Betting
-casinoadmiral.lt #Betting
-uniclub.lt #Betting
-twinsbet.lt #Betting
-betsafe.lt #Betting
-betsson.lt #Betting
-casinoguru.lt #Betting
-olybet.lt #Betting
-kazino-zaidimai.lt #Betting
-cbet.lt #Betting
-partycasino.lt #Betting
-lietuvosonlinekazino.com #Betting
-lietuvoskazino.com #Betting
-statymai.com #Betting
-lazybos.net #Betting
-lazybugugu.lt #Betting
-casinoonline.com #Betting
-casinoonline.lt #Betting
-kortuzaidimai.lt #Betting
-kazinoazartas.lt #Betting
-casinority.com #Betting
-csdl.lt #Betting
-vytishop.lt #Betting
-johnnybet.com #Betting
-internetiniaikazino.info #Betting
-geriausikazinointernetu.com  #Betting
-mtp.lt #Betting
-statymugidas.lt #Betting
-pokeriomokykla.lt #Poker
+# Pagrindinės svetainės ir jų mobilios versijos
+loto.lt
+perlas.lt
+topsport.lt
+m.topsport.lt
+optibet.lt
+m.optibet.lt
+7bet.lt
+7bet.net
+m.7bet.lt
+casinoadmiral.lt
+uniclub.lt
+m.uniclub.lt
+twinsbet.lt
+betsafe.lt
+m.betsafe.lt
+betsson.lt
+olybet.lt
+m.olybet.lt
+cbet.lt
+m.cbet.lt
+partycasino.lt
+
+# Informaciniai ir nukreipiamieji portalai
+casinoguru.lt
+kazino-zaidimai.lt
+lietuvosonlinekazino.com
+lietuvoskazino.com
+statymai.com
+lazybos.net
+lazybugugu.lt
+casinoonline.com
+casinoonline.lt
+kortuzaidimai.lt
+kazinoazartas.lt
+casinority.com
+csdl.lt
+vytishop.lt
+johnnybet.com
+internetiniaikazino.info
+geriausikazinointernetu.com
+mtp.lt
+statymugidas.lt
+pokeriomokykla.lt
+nuoroda.lpth.lt
