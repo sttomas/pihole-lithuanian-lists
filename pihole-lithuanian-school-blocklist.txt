@@ -1,7 +1,7 @@
 # Title: Lithuanian school blocklist
 # Updated: 2026-03-24
 # Author: ts
-# Domain Count: 684
+# Domain Count: 712
 # ===============================================================
 
 # PAGRINDINIAI LAŽYBŲ OPERATORIAI IR MOBILIOS VERSIJOS
@@ -1050,3 +1050,41 @@ finalcall.com
 nationofislam.org
 blackpower.com
 pan-africanism.com
+
+# PAIEŠKOS SISTEMOS BE SAFE-SEARCH DNS PALAIKYMO
+yandex.ru
+yandex.com
+ya.ru
+baidu.com
+ask.com
+search.yahoo.com
+ecosia.org
+dogpile.com
+wolframalpha.com
+gibiru.com
+startpage.com
+swisscows.com
+metager.org
+boardreader.com
+excite.com
+lycos.com
+webcrawler.com
+search-results.com
+searchencrypt.com
+qwant.com
+mojeek.com
+yippy.com
+peekier.com
+searx.be
+searx.me
+searx.org
+gigablast.com
+hotbot.com
+metacrawler.com
+rambler.ru
+mail.ru
+ok.ru/search
+naver.com
+daum.net
+so.com
+sogou.com
