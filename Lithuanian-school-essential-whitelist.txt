@@ -1,0 +1,99 @@
+# Title: Lithuanian school essential whitelist
+# Updated: 2026-03-24
+# Author: ts
+# ===============================================================
+
+# LIETUVOS ŠVIETIMO IR VALSTYBINĖS SISTEMOS
+tamo.lt
+manodienynas.lt
+emokykla.lt
+nsa.smm.lt
+smm.lt
+lmnsc.lt
+skaitmenine-mokykla.lt
+eduka.lt
+vma.lt
+egzaminai.lt
+keliu-eismo-taisykles.lt
+regitra.lt
+lietuva.lt
+epaslaugos.lt
+
+# EDUKACINĖS PLATFORMOS IR ĮRANKIAI
+kahoot.it
+kahoot.com
+quizizz.com
+quizlet.com
+padlet.com
+canvaslms.com
+moodle.org
+edmodo.com
+classdojo.com
+seesaw.me
+nearpod.com
+mentimeter.com
+menti.com
+
+# UŽSIENIO KALBOS IR MOKYMASIS
+duolingo.com
+babbel.com
+memrise.com
+lingvist.com
+reverso.net
+linguee.com
+oxfordlearnersdictionaries.com
+cambridge.org
+dictionary.com
+
+# IT, PROGRAMAVIMAS IR STEM
+code.org
+scratch.mit.edu
+github.com
+github.io
+stackoverflow.com
+w3schools.com
+khanacademy.org
+coursera.org
+edx.org
+udemy.com
+arduino.cc
+tinkercad.com
+nasa.gov
+esa.int
+wolfram.com
+geogebra.org
+
+# KONFERENCIJOS IR KOMUNIKACIJA (MOKSLUI)
+zoom.us
+zoom.com
+teams.microsoft.com
+webex.com
+meet.google.com
+slack.com
+
+# MULTIMEDIJA IR INFORMACIJA (EDUKACINĖ)
+youtube.com
+googlevideo.com
+ytimg.com
+wikipedia.org
+wikimedia.org
+britannica.com
+nationalgeographic.com
+ted.com
+pixabay.com
+unsplash.com
+canva.com
+
+# DEBESIJA IR DOKUMENTAI
+drive.google.com
+docs.google.com
+sheets.google.com
+slides.google.com
+office.com
+onedrive.live.com
+dropbox.com
+icloud.com
+
+# SAFESEARCH DNS (BŪTINA GOOGLE/BING KONTROLEI)
+forcesafesearch.google.com
+safe.bing.com
