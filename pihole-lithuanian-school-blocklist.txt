@@ -234,6 +234,7 @@ doubleclick.net
 
 # SKELBIMŲ PORTALAI
 skelbiu.lt
+m.skelbiu.lt
 alio.lt
 aruodas.lt
 autoplius.lt
