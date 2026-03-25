@@ -279,6 +279,7 @@ shpock.com
 leboncoin.fr
 
 # GINKLAI IR AMUNICIJA
+ginkluklubas.lt
 aic.lt
 thunderarmory.lt
 balticarms.lt
