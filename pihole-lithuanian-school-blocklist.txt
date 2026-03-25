@@ -396,6 +396,7 @@ topfejerverkai.lt
 sceninepirotechnika.lt
 pirostilius.lt
 bombonešis.lt
+bombonesis.lt
 ugniesvaivorykste.lt
 piromagija.lt
 fejerverkai-pirotechnika.lt
@@ -509,6 +510,7 @@ rinkuskiai.lt
 birzu-alus.lt
 josvainiu-alus.lt
 kupiškio-alus.lt
+kupiskio-alus.lt
 pasvalio-alus.lt
 vasaknu-dvaras.lt
 dujualus.lt
@@ -586,6 +588,7 @@ royalvape.lt
 vapeoutlet.lt
 garink.lt
 el-cigaretės.lt
+el-cigaretes.lt
 vapekaunas.lt
 vapeson.lt
 vapor.lt
@@ -660,6 +663,7 @@ vynozurnalas.lt
 vynasirvirsune.lt
 vynokeliai.lt
 vynokultūra.lt
+vynokultura.lt
 alkoholio-reklama.lt
 ntakd.lrv.lt
 somelje.lt
@@ -883,7 +887,7 @@ splashtop.net
 uvnc.com
 realvnc.com
 vnc.com
-zoho.com/assist
+zoho.com
 remotedesktop.com
 supremocontrol.com
 getscreen.me
